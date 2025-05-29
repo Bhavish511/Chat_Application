@@ -150,11 +150,3 @@ Copy
 Edit
 
 ---
-
-### ✅ How to Use
-
-1. Copy this and save it as `README.md` in the root directory of your project.
-2. GitHub will automatically format it when you push the repository.
-3. You can add images, screenshots, or video links under any section for better visualization.
-
-Let me know if you also want a `.env` example, Postman collection, or frontend integration!
